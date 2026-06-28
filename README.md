@@ -7,23 +7,20 @@
   </a>
 </p>
 
+<table>
+<tr>
+<td width="45%" valign="top">
+
 - 🎓 Mathematics Graduate from Jakarta State University
+  
 - 📊 Interested in Data Analytics, Data Science, and Machine Learning
+  
 - 📈 Passionate about solving real-world problems with data and continuously improving my analytical skills
+  
 - 🌱 Currently improving my skills in Python, SQL, Power BI, and Machine Learning
+  
 - 📫 How to reach me: **hannazn12@gmail.com**
 
-<p align="center">
-  <a href="https://github.com/hannazan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hannazan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="hannazan's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=hannazan&theme=dracula&hide_border=true&cache_seconds=86400" alt="hannazan's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=hannazan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hanna Zahra Nadia's GitHub Trophies" />
-</p>
-
----
 
 <h3>Languages and Tools</h3>
 <p>
@@ -39,8 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 </p>
 
----
-
 <h3>Connect with Me</h3>
 <p>
   <a href="https://www.linkedin.com/in/hannazan/">
@@ -51,7 +46,21 @@
   </a>
 </p>
 
+</td>
+
+<td width="55%" align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hannazan&cache_seconds=7200&show_icons=true&theme=dracula&border_radius=10" width="100%" />
+<br><br>
+<img src="https://streak-stats.demolab.com/?user=hannazan&theme=dracula&hide_border=true&cache_seconds=86400" width="100%" />
+<br><br>
+<img src="https://trophy.ryglcloud.net/?username=hannazan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" width="100%" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
