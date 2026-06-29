@@ -51,8 +51,6 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hannazan&cache_seconds=7200&show_icons=true&theme=dracula&border_radius=10" width="100%" />
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=hannazan&theme=dracula&hide_border=true&cache_seconds=86400" width="100%" />
-<br><br>
-<img src="https://trophy.ryglcloud.net/?username=hannazan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" width="100%" />
 </p>
 </td>
 </tr>
